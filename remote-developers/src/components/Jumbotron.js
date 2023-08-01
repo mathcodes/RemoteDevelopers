@@ -16,8 +16,8 @@ const Jumbotron = () => {
           {/* Image */}
           <div className="mt-4 sm:mt-0">
             <img
-              src="your-image-url.jpg"
-              alt="Greeting Image of your choice"
+              src="./leonardosworld.png"
+              alt="a fabulous view of the future is thigns go right"
               className="rounded-full h-32 w-32 mx-auto sm:mx-0"
             />
           </div>
