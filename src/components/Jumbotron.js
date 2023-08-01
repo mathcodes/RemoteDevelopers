@@ -16,7 +16,7 @@ const Jumbotron = () => {
           {/* Image */}
           <div className="mt-4 sm:mt-0">
             <img
-              src="./leonardosworld.png"
+              src="https://raw.githubusercontent.com/mathcodes/RemoteDevelopers/feat-demo/remote-developers/public/assets/images/leonardosworld.png"
               alt="a fabulous view of the future is thigns go right"
               className="rounded-full h-32 w-32 mx-auto sm:mx-0"
             />
