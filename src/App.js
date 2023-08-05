@@ -7,7 +7,6 @@ import LoginPage from './components/LoginPage';
 function App() {
   const [loginVisible, setLoginVisible] = useState(false);
 
-  // Create a function that toggles the LoginPage visibility
   const toggleLogin = () => {
     setLoginVisible(!loginVisible);
   };
@@ -23,12 +22,22 @@ function App() {
           Login
         </button>
         {loginVisible && <LoginPage />}
+
+        {/* Define the routes using 'Routes' and 'Route' components */}
+        {/* Specify your routes using the 'element' prop */}
         <Routes>
-          <Route path="/" element={<App />} />
+          {/* Define the route for the root URL */}
+          <Route path="/" element={<HomePage />} />
+          {/* Add more routes as needed */}
         </Routes>
       </div>
     </Router>
   );
+}
+
+// Create a new component for the homepage
+function HomePage() {
+  return <h1>Welcome to the Homepage!</h1>;
 }
 
 export default App;
