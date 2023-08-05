@@ -4,7 +4,7 @@ Project one for this team of Remote Developers will be an aid for gluten-free co
 # Table of Contents
  
 - [Introduction](#introduction)
-   <!-- Explanation of the project and its purpose. -->
+   <!-- Explanation of the team, the project, and its purpose. -->
 
 - [Prerequisites](#prerequisites)
    <!-- List of software, libraries, and dependencies required to run the project. -->
