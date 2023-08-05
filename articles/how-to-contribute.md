@@ -1,23 +1,10 @@
----
-lang: en
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
-class: contribute
-order: 1
-image: /assets/images/cards/contribute.png
-related:
-  - beginners
-  - building
----
-
 ## Why contribute to open source?
 
+There are MANY reasons below, but I'm just relaying the message that the devs who inspired me brought to my attention, and in the context of Open-Source Projects, there is no one else but [Eddie Jaoude](https://github.com/eddiejaoude) that comes close to being the central inspiring driving force behind open source project. Check out his projects and massive amount of value on [Github](https://github.com/eddiejaoude), [Twitter](https://twitter.com/eddiejaoude), [YouTube](https://www.youtube.com/eddiejaoude), [Discord](https://discord.com/invite/jZQs6Wu), you name it! Thanks, Eddie... ❤️❤️❤️.
+
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
-  <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
-  </p>
+  <img src="https://avatars.githubusercontent.com/mathcodes?s=180" class="pquote-avatar" alt="avatar">
+ 
 </aside>
 
 Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
