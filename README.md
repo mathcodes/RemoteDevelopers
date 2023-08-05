@@ -25,7 +25,10 @@ Project one for this team of Remote Developers will be an aid for gluten-free co
    <!-- Links to any external resources, documentation, or related projects. -->
 
 - [Contributing](#contributing)
-   <!-- Guidelines for contributing to the project and how to submit pull requests. -->
+Please refer to the [CONTRIBUTING.md](https://raw.githubusercontent.com/mathcodes/RemoteDevelopers/main/CONTRIBUTING.md) document.
+
+- [Code of Conduct](#code-of-conduct)
+Please refer to the [CODE_OF_CONDUCT.md](https://raw.githubusercontent.com/mathcodes/RemoteDevelopers/main/CODE_OF_CONDUCT.md) document.
 
 - [License](#license)
    <!-- Information about the project's license and terms of use. -->
@@ -33,13 +36,29 @@ Project one for this team of Remote Developers will be an aid for gluten-free co
 - [Authors](#authors)
     <!-- List of contributors and their contact information. -->
 
-- [Changelog](#changelog)
-    <!-- A history of changes made to the project, including version numbers and release dates. -->
-
 # Introduction
+
+# Prerequisites
+
+# Installation
+
+# Usage
+
+# Configuration
+
+# File Structure
+
+# References
+
+# Contributing
+Please refer to the [CONTRIBUTING.md](https://raw.githubusercontent.com/mathcodes/RemoteDevelopers/main/CONTRIBUTING.md) document.
+
+# Code of Conduct
+Please refer to the [CODE_OF_CONDUCT.md](https://raw.githubusercontent.com/mathcodes/RemoteDevelopers/main/CODE_OF_CONDUCT.md) document.
 
 # License
 [MIT](https://raw.githubusercontent.com/mathcodes/RemoteDevelopers/main/LICENSE)
 
-## Meet the team:
+# Authors
+Meet the team:
 <a href="https://github.com/mathcodes"><img src="https://avatars.githubusercontent.com/u/17928947?v=4" width="60px" /></a>
