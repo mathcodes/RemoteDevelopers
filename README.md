@@ -61,6 +61,13 @@ Please refer to the [CODE_OF_CONDUCT.md](https://raw.githubusercontent.com/mathc
 
 # Authors
 Meet the team:
+<!--  if your avatar is already a circle, you can just use the link itself (right click your avatar and Save Image Link 👍 
 <a href="https://github.com/mathcodes"><img src="https://avatars.githubusercontent.com/u/17928947?v=4" width="60px" /></a>
-<a href="https://github.com/fernandojbf123"><img src="https://avatars.githubusercontent.com/u/111673577?v=4" width="60px" /></a>
+-->
+
+<!-- If your avatar is a square, take this anchor and img tag and change the '111673577?v=4' to what yours is in your avatar image link 👍 :
+<a href="https://github.com/fernandojbf123"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/111673577?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60px" style="border-radius:50%;"/></a>
+-->
+<a href="https://github.com/mathcodes"><img src="https://avatars.githubusercontent.com/u/17928947?v=4" width="60px" /></a> <a href="https://github.com/fernandojbf123"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/111673577?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60px" style="border-radius:50%;"/></a>
+
 
