@@ -62,3 +62,5 @@ Please refer to the [CODE_OF_CONDUCT.md](https://raw.githubusercontent.com/mathc
 # Authors
 Meet the team:
 <a href="https://github.com/mathcodes"><img src="https://avatars.githubusercontent.com/u/17928947?v=4" width="60px" /></a>
+<a href="https://github.com/fernandojbf123"><img src="https://avatars.githubusercontent.com/u/111673577?v=4" width="60px" /></a>
+
