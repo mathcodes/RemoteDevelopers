@@ -76,4 +76,4 @@ Meet the team:
 -->
 
 <a href="https://github.com/mathcodes"><img src="https://avatars.githubusercontent.com/u/17928947?v=4" width="60px" /></a> <a href="https://github.com/fernandojbf123"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/111673577?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60px" style="border-radius:50%;"/></a><a href="https://github.com/pizzii"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/38224641?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60px"/> </a>
-<a href="https://github.com/avinashji1302"><img src="https://avatars.githubusercontent.com/u/91355822?v=4" width="60px" /></a>
+<a href="https://github.com/avinashji1302"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/91355822?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60px" /></a>
