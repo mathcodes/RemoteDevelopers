@@ -66,5 +66,15 @@ Please refer to the [CODE_OF_CONDUCT.md](https://raw.githubusercontent.com/mathc
 # Authors
 
 Meet the team:
+
+<!--  if your avatar is already a circle, you can just use the link itself (right click your avatar and Save Image Link 👍
 <a href="https://github.com/mathcodes"><img src="https://avatars.githubusercontent.com/u/17928947?v=4" width="60px" /></a>
-<a href="https://github.com/Thebigjoe10"><img src="https://avatars.githubusercontent.com/u/110489359?s=400&u=336b38cd500578f5071b90f0d2c832eb6d2a68d5&v=4" width="60px" /></a>
+-->
+
+<!-- If your avatar is a square, take this anchor and img tag and change the '111673577?v=4' to what yours is in your avatar image link 👍 :
+<a href="https://github.com/fernandojbf123"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/111673577?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60px" style="border-radius:50%;"/></a>
+-->
+
+<a href="https://github.com/mathcodes"><img src="https://avatars.githubusercontent.com/u/17928947?v=4" width="60px" /></a> <a href="https://github.com/fernandojbf123"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/111673577?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60px" style="border-radius:50%;"/></a><a href="https://github.com/pizzii"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/38224641?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60px"/> </a>
+<a href="https://github.com/avinashji1302"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/91355822?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60px" /></a>
+<a href="https://github.com/Thebigjoe10"><img src="https://avatars.githubusercontent.com/u/110489359?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="60px" style="border-radius:50%;"/></a>
