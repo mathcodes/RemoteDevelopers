@@ -1,0 +1,126 @@
+name: 'Feature Request'
+description: Create a new ticket for a new feature request
+title: '[REQUEST] - <title>'
+labels: ['question']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thank you for dedicating your time to provide an idea that could enhance the project!
+        We greatly appreciate receiving all of your ideas and encourage you to share as many details as you'd like. Your input is valuable to us.
+        ______________________________________
+         **Important documentation**
+        - [Code of Conduct](https://github.com/Uzafar90/github_templates_v1/blob/main/Official%20Docs/CodeOfConduct.md)
+        - [Contribution Guide](https://github.com/Uzafar90/github_templates_v1/blob/main/Official%20Docs/ContributionGuide.md)
+        - [Security Guide](https://github.com/Uzafar90/github_templates_v1/blob/main/Official%20Docs/SecurityGuide.md)
+        ______________________________________
+  - type: input
+    id: start_date
+    attributes:
+      label: 'Start Date'
+      description: Start of development
+      placeholder: 'month/day/year'
+    validations:
+      required: false
+  - type: input
+    id: reporter_person
+    attributes:
+      label: 'Reporter'
+      description: Name of the reporter
+      placeholder: 'John Doe'
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Current Behavior'
+      description: Describe the current behavior or state of the software or platform where the feature is expected to be implemented.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Feature Description'
+      description: Provide a detailed description of the feature, including its purpose, expected functionality, and any relevant details. Use clear and concise language to explain the feature.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Use Case'
+      description: |
+        - Explain how this feature would benefit users or address specific use cases. 
+        - Provide examples or scenarios where this feature would be useful.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Proposed Solution'
+      description: |
+        - Present your proposed solution for implementing the feature. 
+          - This can include technical details, workflows, or any other information necessary for understanding the implementation.
+      placeholder: Explain thoroughly if necessary ...
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Dependencies'
+      description: |
+        - List any dependencies or prerequisites required for implementing the feature. 
+          - This can include libraries, frameworks, or other components.
+      placeholder: |
+        - libraries: 
+        - version:
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Implementation Steps'
+      description: |
+        - Outline the steps required to implement the feature. 
+        - Break down the process into smaller tasks or milestones, if applicable.
+      placeholder: |
+        1. Navigate to the GitHub website.
+        2. Once the repository is created
+        3. After adding files
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Testing Plan'
+      description: |
+        - Describe how the feature should be tested to ensure its functionality and reliability. 
+        - Specify any specific test cases or scenarios to cover.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Expected Outcome'
+      description: |
+        - Describe the expected outcome or impact of implementing this feature. 
+          - This can include user experience improvements, increased efficiency, or any other positive outcomes.
+    validations:
+      required: false
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 'Design Mockups / Screenshots (optional)'
+      description: |
+        - If applicable, include design mockups or visual representations of how the feature might look or function. 
+          - This can help provide a clearer understanding of the proposed feature.
+      value: |
+        ![DESCRIPTION](LINK.png)
+      render: bash
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Additional Comments (Optional)'
+      description: Include any additional comments, suggestions, or considerations related to the feature.
+    validations:
+      required: false
+  - type: checkboxes
+    id: term
+    attributes:
+      label: Accept Terms
+      description: This projects have some important documentations that all participants are expected to review, understand, and follow thoroughly.
+      options:
+        - label: I have read and agree to the term list under [Official Documentations](https://github.com/Uzafar90/github_templates_v1/tree/main/Official%20Docs)
+          required: true

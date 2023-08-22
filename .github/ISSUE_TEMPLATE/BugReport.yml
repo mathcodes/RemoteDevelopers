@@ -1,0 +1,139 @@
+name: 'Bug Report'
+description: Create a new ticket for a bug
+title: '[BUG] <title>'
+labels: ['bug']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Please review the information documentation before you create a new ticket
+        ______________________________________
+        **Important documentation**
+        - [Code of Conduct](https://github.com/Uzafar90/github_templates_v1/blob/main/Official%20Docs/CodeOfConduct.md)
+        - [Contribution Guide](https://github.com/Uzafar90/github_templates_v1/blob/main/Official%20Docs/ContributionGuide.md)
+        - [Security Guide](https://github.com/Uzafar90/github_templates_v1/blob/main/Official%20Docs/SecurityGuide.md)
+        ______________________________________
+  - type: dropdown
+    attributes:
+      label: 'Operating system'
+      description: List all OS(s) impacted.
+      multiple: true
+      options:
+        - Windows
+        - Linux
+        - Mac
+    validations:
+      required: false
+  - type: dropdown
+    attributes:
+      label: 'Browser'
+      description: List all browser(s) impacted.
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Brave
+        - Microsoft Edge
+        - Opera
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Steps to Reproduce'
+      description: Please list all the steps to reproduce
+      placeholder: |
+        1. Login to the system
+        2. File the bug report
+        3. Submit
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'What happened?'
+      description: Explain, what you did expect to happen?
+      placeholder: provide your expectations ...
+    validations:
+      required: false
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 'Screenshots (optional)'
+      description: If applicable, add screenshots to help explain your problem.
+      value: |
+        ![DESCRIPTION](LINK.png)
+      render: bash
+    validations:
+      required: false
+  - type: checkboxes
+    id: lists
+    attributes:
+      label: Checklist
+      description: Please check the following boxes that applies
+      options:
+        - label: I have read the documentation and user guides.
+        - label: I have searched for existing issues and this is not a duplicate.
+        - label: I have reproduced this issue using the latest version of the software.
+        - label: I have included all relevant information and steps to reproduce the issue.
+        - label: I have attached any necessary screenshots or files.
+        - label: I understand that this is an open-source project and that it may take some time for the issue to be addressed.
+          required: false
+  - type: textarea
+    attributes:
+      label: 'Todo List (optional)'
+      description: Please list all the tasks that need to be done!
+      placeholder: |
+        - Item 1 ...
+        - item 2 ...
+        - item 3 ...
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Proposed Solution (optional)'
+      description: If you have any ideas or suggestions for a potential solution, please describe them here
+      placeholder: start typing solutions ...
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Impact (optional)'
+      description: Describe the impact of the issue on the software or users
+      placeholder: tell us the impact ...
+    validations:
+      required: false
+  - type: dropdown
+    attributes:
+      label: 'How Often? (optional)'
+      description: How frequently do you come across this issue within your project?
+      options:
+        - Always
+        - Sometimes
+        - Rarely
+    validations:
+      required: false
+  - type: dropdown
+    attributes:
+      label: 'Priority Level (optional)'
+      description: Please indicate the level of urgency for resolving this bug.
+      options:
+        - low
+        - Medium
+        - High
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 'Any other information (optional)'
+      description: Include any other relevant information that may assist in resolving the issue
+      placeholder: Explain thoroughly if necessary
+    validations:
+      required: false
+  - type: checkboxes
+    id: term
+    attributes:
+      label: Accept Terms
+      description: This projects have some important documentations that all participants are expected to review, understand, and follow thoroughly.
+      options:
+        - label: I have read and agree to the term list under [Official Documentations](https://github.com/Uzafar90/github_templates_v1/tree/main/Official%20Docs)
+          required: true
